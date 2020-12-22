@@ -34,6 +34,7 @@ opt2 = ['A File', 'A Dir.']
 main_options = StringVar()
 main_options.set(opt1[0])
 
+
 sub_options = StringVar()
 sub_options.set(opt2[0])
 
