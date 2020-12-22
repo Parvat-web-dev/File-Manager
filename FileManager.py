@@ -7,6 +7,7 @@ from tkinter import *
 bg_color = 'black'
 text_color = 'white'
 
+
 #The main window
 window = Tk()
 window.geometry('600x500')
